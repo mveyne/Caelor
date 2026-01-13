@@ -1,7 +1,7 @@
 ---
 longform:
   format: scenes
-  title: Caelor
+  title: Caelor Notes
   workflow: Default Workflow
   sceneFolder: /
   scenes:
