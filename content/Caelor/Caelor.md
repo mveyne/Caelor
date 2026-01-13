@@ -1,8 +1,8 @@
 ---
-title: "<% tp.file.title %>"
+title: Caelor
 draft: false
 tags:
-  - 
+  -
 ---
 # Races
 ## Humans

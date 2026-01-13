@@ -7,6 +7,7 @@ longform:
   scenes:
     - Ashewyn Dynasty
     - Caelor
+    - Flaneas
   sceneTemplate: templates/Chapter.md
   ignoredFiles: []
 ---
