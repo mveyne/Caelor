@@ -4,9 +4,9 @@ draft: false
 tags:
   -
 ---
-
+![[Ashewyn.png|center|500]]
 # Background
-The Ashewyn Dynasty emerged as the rulers of Caelor after a brutal civil war over 800 years ago. With the help of their allies, including various noble families and the Church of Light, King Emanuel Ashewyn defeated the brutal and corrupt Mad King of the Corveth Dynasty. 
+The Ashewyn Dynasty emerged as the rulers of Caelor after a brutal civil war over 800 years ago. With the help of their allies, including various noble families and the [[Church of Light]], King Emanuel Ashewyn defeated the brutal and corrupt Mad King of the Corveth Dynasty. 
 
 The dynasty first followed a feudal system where the various nobles and important religious figures, centered around the Twelve Peers.  Each party played a particular role in the government of the kingdom. The nobility acted as counselors and agents for the king - he was supposed to consult them regularly, to only make decisions with their approval. They kept order in their spheres of influence, went on embassies for the king, ran law courts and collected taxes, and supplied the bulk of the royal army. The king, meanwhile, was vital for the aristocracy - he provided an arbitrator for their disputes, provided patronage for them and for their followers (in particular for church offices) and, most importantly of all, legitimized the power they wielded and the actions they performed using that power.
 
