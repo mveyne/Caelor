@@ -5,6 +5,7 @@ Although known peace for many years, tension simmers beneath the surface. Noble 
 
 # Geography
 Caelor is a peninsula surrounded by water on three sides and an imposing mountain range on its fourth. This natural isolation has made the realm high defensible, encouraging the development of  powerful naval forces and enabling the rise of powerful regional noble families.
+
 ## Mountains
 Caelor is characterized by three mountain ranges: the Stonewake Range (also known as the Spine of Caelor), the Ashveil Range, and the Northfolds.
 - The Stonewake Mountains separate Caelor into eastern and western regions, demarking both a change in climate and in culture. Control of their passes has long been a strategic and political concern.
@@ -12,10 +13,14 @@ Caelor is characterized by three mountain ranges: the Stonewake Range (also know
 - The Northfolds are a quieter, more hospitable mountain range full of natural resources such as iron and rare metals. Though peaceful, their resources make them vital to the realm's economy and a point of contention among the nobility and royalty.
 
 After the centralization of power, the Ashewyn Dynasty has control over the sale of natural materials extracted from the mountain ranges. Most of the iron and nearly all magical resources must be sold directly to the throne.
+
 ## Bodies of Water
 Besides the Nostrum Sea flanking on three sides, Caelor is known for a variety of bodies of water. The capital, Crownhold, lies near Lake Stillward. The large lake west of the Spine is Lake Sembor.
 
 # Territories
+## Regions
+- Marrowdaen is the northeast region. It is located near a massive forest and largely isolated from the rest of Caelor. There are only a few passages into Marrowdaen. The Duchess Beatrix Kermerac is known as the Lioness of Marrowdaen and has acts as a privateer/pirate against the king.
+
 ## Cities
 - Verne is a large coastal city and the beginning of the King's Road
 - Crownhold is the ancient capital that lies next to Lake Stillward
