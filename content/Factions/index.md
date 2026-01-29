@@ -8,8 +8,7 @@ tags:
 This chapter describes the various factions and their major NPCs. 
 
 [[Ashewyn Dynasty]]
-[[Demonic Cult]]
-[[Nobles]]
-[[Flaneas]]
+[[Infernal Cult]]
+[[Rosarium]]
 [[Church of Light]]
-[[Thal]]
+[[Thalassine Empire]]

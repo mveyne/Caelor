@@ -20,11 +20,13 @@ Approximately 150 years ago, the nation of Flaneas launched a full-scale invasio
 
 Following the war’s conclusion, the Bulwark King refused to return military authority to the nobles. Instead, he established a permanent central army and outlawed the formation of private forces, including those raised by noble houses.
 
+While Caelor was still recovering from the attack by Flaneas, the Infernal Cult struck. The Bulwark King fought valiantly but ultimately perished to the cult leader, Severik the Ashen-Hand.
+
 ## The Sage King
-Little is publicly known about the Sage King. She is best remembered for her successful defense  of the realm against the Demonic Cult after they pushed deep into Caelor territory and slayed the Bulwark King in combat. She established a unified legal framework enforced upon peasants and nobles alike.
+Little is publicly known about the Sage King. She is best remembered for her successful defense of the realm against the Infernal Cult after they pushed deep into Caelor territory and slayed the Bulwark King in combat. She established a unified legal framework enforced upon peasants and nobles alike. She was also known as an extraordinary wizard, effective both in and out of battle, and an avid scholar on the subject of the Thalassine Empire.
 
 ## The Splendor King
 The Splendor King is remembered as both a great patron of the arts and an extraordinary artist in his own right. His push to establish a new cultural center for Caelor led to the creation of the city of Valence, a city of splendor considered by some the new capital of the country.
 
 ## The Sun King
-The Sun King is the current ruler of the Ashewyn Dynasty. He has only recently come into power. Few know his real appearance, as he only ever shows himself in public with a hood and mask. 
+The Sun King is the current ruler of the Ashewyn Dynasty. He has only recently come into power. Few know his real appearance, as he only ever shows himself in public with a hooded robe and mask.
