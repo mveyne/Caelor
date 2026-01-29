@@ -4,7 +4,7 @@ draft: false
 tags:
   -
 ---
-![[content/assets/Sun.png|center|400]]
+![[content/assets/Sun.png|400]]
 The Church of Light was first founded during the time of the Thalassine Empire. Despite the eventual fall of the empire, the Church has kept its massive influence in the former territories of the empire.
 
 # Goals
