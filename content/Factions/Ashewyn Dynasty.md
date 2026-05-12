@@ -1,4 +1,4 @@
-![[content/assets/Ashewyn.png|center|400]]
+![[Ashewyn.png|400]]
 
 The Ashewyn Dynasty emerged as the rulers of Caelor after a brutal civil war over 800 years ago. With the help of their allies, including various noble families and the Church of Light, King Emmanuel Ashewyn defeated the brutal and corrupt Mad King of the Corveth Dynasty. 
 

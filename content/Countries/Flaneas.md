@@ -9,9 +9,3 @@ Flaneas is surrounded by the Great Forest to the west, the brutal ice fields to 
 
 # Culture & People
 Due to the influence of the elves, Flaneas are staunt believers in the Mother of Abundance, a goddess of harvest and fertility. This belief has shaped their culture and political system. The country is led by a council of druids, whose mastery of wood magic allowed them to dominate shipbuilding and construction for centuries.
-
-# Current State
-What's happening *right now* in the campaign timeline.
-
-# History
-Push older lore here so it doesn't bury current events.

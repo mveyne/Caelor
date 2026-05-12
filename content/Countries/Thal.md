@@ -1,4 +1,5 @@
 ![[Thal.png|center|400]]
+
 After the dissolution of the Thalassine Empire, the country of Thal was left in its wake. As the birthplace of the [[Church of Light]] and a previously massive empire, the people of Thal are proud people--some so proud that they strive for the reestablishment of the Empire.
 
 ## Geography
