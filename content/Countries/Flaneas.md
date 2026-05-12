@@ -1,7 +1,17 @@
-To the east of the World Tree, cupping the Great Sea from the north, lies the nation of Flaneas. Heavily influenced by the elves, this country of half-elves and humans are a historical rival to Caelor. Although not the most heavily armed, many privateers carry the symbol of Flaneas upon their flag, a great tree of green and gold.
+To the east of the World Tree, cupping the Nostrum Sea from the north, lies the nation of Flaneas. Heavily influenced by the elves, this country of half-elves and humans are a historical rival to Caelor. Many privateers carry the symbol of Flaneas upon their flag, a great tree of green and gold.
 
 # Geography
-Jutting into the Nostrum Sea from the northwest, Flaneas is located a relatively short distance north of Caelor. Further to its west is the Great Forest, the location of the largest civilization of elves on the continent.
 
-# Key Figures
-It is the home to the church of the Goddess of Ambudance and has a large druidic tradition.
+## Regions / Mountains / Waters
+Flaneas is surrounded by the Great Forest to the west, the brutal ice fields to the North, and the Nostrum Sea to the south.
+
+# Cities & Holdings
+
+# Culture & People
+Due to the influence of the elves, Flaneas are staunt believers in the Mother of Abundance, a goddess of harvest and fertility. This belief has shaped their culture and political system. The country is led by a council of druids, whose mastery of wood magic allowed them to dominate shipbuilding and construction for centuries.
+
+# Current State
+What's happening *right now* in the campaign timeline.
+
+# History
+Push older lore here so it doesn't bury current events.
