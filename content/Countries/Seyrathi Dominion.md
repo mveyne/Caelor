@@ -4,10 +4,6 @@ Country of dragonborn that believe in the Goddess of the Moon. They were the mai
 
 ## Regions / Mountains / Waters
 
-# Cities & Holdings
-
-Brief one-line entries with [[links]] to fuller notes for important ones.
-
 # Culture & People
 
 Seyrathi has a majority population of dragonborn, who have historically held control over power within the Dominion. This has led to discrimination and even slavery against other races, especially Orcs.

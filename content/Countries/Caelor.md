@@ -16,6 +16,7 @@ Although known peace for many years, tension simmers beneath the surface. Noble 
 Caelor is a peninsula surrounded by water on three sides and an imposing mountain range on its fourth. This natural isolation has made the realm high defensible, encouraging the development of  powerful naval forces and enabling the rise of powerful regional noble families.
 
 ## Mountains
+
 Caelor is characterized by three mountain ranges: the Stonewake Range (also known as the Spine of Caelor), the Ashveil Range, and the Northfolds.
 - The Stonewake Mountains separate Caelor into eastern and western regions, demarking both a change in climate and in culture. Control of their passes has long been a strategic and political concern.
 - The Ashveil Mountains are dark, imposing mountains that serve as both a source of protection from western invasion and a source of constant danger in the form of the Infernal Cult.
@@ -30,6 +31,7 @@ Besides the Nostrum Sea flanking on three sides, Caelor is known for a variety o
 # Territories
 
 ## Cities
+
 - Verne is a large coastal city and the beginning of the King's Road.
 - Crownhold is the ancient capital that lies next to Lake Stillward.
 - Brightcourt is a new cultural capital built during the time of the Splendor King
@@ -44,7 +46,8 @@ Besides the Nostrum Sea flanking on three sides, Caelor is known for a variety o
 
 # Culture & People
 
-Caelor is best known for its noble houses, who have historically ruled over various sections of Caelor. After a rebellion nearly 750 years ago, the [[Church of the Abyssal Serpent|Corveth Dynasty]] were defeated and replaced by the [[Ashewyn Dynasty]]. The Ashewyn Dynasty spread belief in the [[Church of Light|God of Light]] throughout Caelor, quickly suppressing belief in local dieties.
+Caelor is best known for its noble houses, who have historically ruled over various sections of Caelor. After a rebellion nearly 750 years ago, the [[Abyssal Serpent|Corveth Dynasty]] were defeated and replaced by the [[Ashewyn Dynasty]]. The Ashewyn Dynasty spread belief in the [[Church of Light|God of Light]] throughout Caelor, quickly suppressing belief in local dieties.
 
 # Current State
+
 The noble houses of Caelor are divided in competing factions, many of which seek to limit or reverse the growing authority of the crown. Traditionally, nobles wielded power through private armies, knightly orders, and control over land and law. In recent years, however, their powers have been steadily eroded, reshaping the balance of the realm. The Bulwark King took control of the army. The Scholar King took control of land and law. The current king, the Sun King, took over religion within Caelor.

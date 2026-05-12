@@ -21,7 +21,3 @@ The Pontiff is a powerful cleric and head of the Church of Light. Although the P
 ## High Confessor
 
 The High Confessor Kramer is a member of the Council of Cardinals whose domain lies in interrogation and inquisition. He is an older man, yet he still performs field operations from time to time.
-
-## Archbishop-Duke Thaddeus Morcant
-
-The religious right-hand man of the king. He helped the king's faction purge Archbishop Antigonus, and he was the one to officially declare war against the Infernal Cult.
