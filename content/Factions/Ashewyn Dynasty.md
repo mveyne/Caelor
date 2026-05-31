@@ -58,7 +58,7 @@ Although royal knights are loyal to the crown, some seem to be loyal to Princess
 
 The leader of the Umbral Hand is the Royal Princess, Althaea. This group consists of assassins trained in infiltration, surveillance, and assassination.
 
-Beyond the ordinary members of the organization, the party has come across a man in blackened armor and a robed man with gauze along the arms. The party has also met a man named Lorenzo, who seemed to have gained a certain amount of trust from Althaea.
+Beyond the ordinary members of the organization, the party has come across a man in blackened armor and a robed man with gauze along the arms. The party has also met a man named Lorenzo, Proprietor of the Royal Opera.
 
 The Umbral Hand maintains a loose set of associates. One of these associates is Lady Mira Borvar, daugher of Countess Borvar, who was tasked by Althaea to recover an artifact deep within Velreth’s underground. 
 
