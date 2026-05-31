@@ -1,3 +1,9 @@
+---
+title: Infernal Cult
+draft: false
+tags:
+  -
+---
 # Goals
 
 ## Destroying the Ashewyn Dynasty
